@@ -23,8 +23,9 @@ I believe in continuous learning, writing clean code, and turning ideas into rea
 ## 🚀 Projects
 
 - 💼 [Flyover](https://github.com/abin65/flyover): A platform for exploring institutions providing abroad programs.
+- 💼 [TechFest](https://github.com/abin65/TechFest): A web platform for showcasing company technical events and programs.
 - 🧮 [Basic Calculator](https://github.com/abin65/Basic-Calculator): A simple calculator using HTML/CSS/JS.
-- 🧑‍💻 TechFest Website: [Visit Site](https://abin65.github.io/TechFest/) A web platform for showcasing company technical events and programs.
+
 
 ---
 
