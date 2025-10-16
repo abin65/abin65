@@ -22,10 +22,11 @@ I believe in continuous learning, writing clean code, and turning ideas into rea
 
 ## 🚀 Projects
 
-- 💼 [Flyover](https://github.com/abin65/flyover): A platform for exploring institutions providing abroad programs.
-- 💼 [TechFest](https://github.com/abin65/TechFest): A web platform for showcasing company technical events and programs.
-- 🧮 [Basic Calculator](https://github.com/abin65/Basic-Calculator): A simple calculator using HTML/CSS/JS.
-
+- 💼 [Flyover](https://github.com/abin65/flyover): A platform for exploring institutions providing abroad programs.  
+- 💼 [TechFest](https://github.com/abin65/TechFest): A web platform for showcasing company technical events and programs.  
+- 🧮 [Basic Calculator](https://github.com/abin65/Basic-Calculator): A simple calculator using HTML/CSS/JS.  
+- 🧑‍💼 [Employee Management System](https://github.com/abin65/employee_management_system): A Django-based web application for efficient employee management.  
+- 📝 [ToDo App](https://github.com/abin65/todo_app): A simple and efficient Flask app to manage daily tasks with CRUD functionality.
 
 ---
 
@@ -34,7 +35,6 @@ I believe in continuous learning, writing clean code, and turning ideas into rea
 Feel free to connect with me on:
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/abinbiju)  
-  
 
 ---
 
